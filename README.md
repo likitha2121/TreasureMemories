@@ -4,7 +4,7 @@ This is a simple front-end web project created as part of my mini project. It de
 
 ## 🚀 Live Website
 
-👉 [View Project Live]( https://likitha2121.github.io/TreasureMemories-Photography-Website/)
+👉 [View Project Live]( https://likitha2121.github.io/TreasureMemories/)
 
 ## 🛠️ Technologies Used
 
